@@ -5,7 +5,7 @@ This repository contains my solution for the Backend Engineering Intern case stu
 ## Candidate Details
 
 Name: Vaishnavi Mankar
-Location: Pune, India
+, Location: Pune (India)
 
 ## Overview
 
